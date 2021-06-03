@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifest publisht to their brethern by the General Chapter of the Catholick English clergy In vindication of their innocency from the false calumnies laid upon them in a seditious libel lately publisht by Dr. Leyburn.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26484</idno><idno type="EEBO-CITATION">99828791</idno>
+  <idno type="VID">207593</idno>
+  <idno type="EEBO-PROQUEST">2240861154</idno>
+  
+            <idno type="STC">Wing M423A</idno>
+            <idno type="PROQUEST">99828791</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828791e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifest publisht to their brethern by the General Chapter of the Catholick English clergy In vindication of their innocency from the false calumnies laid upon them in a seditious libel lately publisht by Dr. Leyburn.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>A reply to:  Leyburn, George. Encyclical epistle sent to their brethern by the venerable dean and chapter of the Catholick clergy in England.</note>
+                  <note>Dated and signed at end: 17. of Sept. 1661. Robert Chernock Apostolical notary. Thomas Masey, Apost. notary.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leyburn, George, 1593-1677. --  Encyclical epistle sent to their brethren by the venerable dean and chapter of the Catholick clergy in England --  Controversial literature --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Clergy --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="manifesto">
+            <pb n="1" facs="tcp:207593:1"/>
+            <head>A MANIFEST Publisht to their BRETHREN BY The General Chapter of the Catholick En<g ref="char:EOLhyphen"/>glish Clergy. IN Vindication of their Innocency from the false Calumnies laid upon them in a seditious Libel late<g ref="char:EOLhyphen"/>ly publisht by Dr. LEYBURN.</head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>We decree that those who shall be convicted to have charg'd their Brethren with false articles shall not communicate till their death, (as the great Synod former<g ref="char:EOLhyphen"/>ly ordained) unless they repent with due satisfaction.</hi>
+                  </p>
+                  <bibl>Conc. Arelat. 2. Can. 24.</bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough Christian Piety may induce a private man to suffer, without endeavouring to justify his innocency, such scandalous reports and false calumnies as unhappy tongues may throw upon him; yet a Body of men whose profession it is to teach the Divine truths of our Catholick Religion both in belief and manners, and thereby to perswade and carry their Disciples to the blessed state of eternal felicity, ought not permit themselves to ly covered under the dark cloud of injurious slanders, which by blasting their name and reputation might obstruct the desired effects of their sacred functions.</p>
+            <p>We therefore considering that divers infamous aspersions and
+<pb n="2" facs="tcp:207593:2"/> foul Calumnies have been of late cast upon us and our whole Body in a seditious Pamphlet written and publisht by Doctor <hi>Leyburn,</hi> to the great scandal of Religion and to our no less grief then pre<g ref="char:EOLhyphen"/>judice both at home and abroad; which, as it is unworthy of, so are we unwilling to give it an Answer, least the evidence of truth (consisting chiefly in matters of fact) should too too much ex<g ref="char:EOLhyphen"/>asperate the weak and passionate disposition of one singular man standing in opposition against all his brethren; yet, being he has peremptorily refus'd to give any satisfaction to those whom he has so highly wrong'd, that we might not seem wholy to neglect that duty and justice which we owe to our selves, but principally to the publick good, we finde our selves oblig'd to give this true and sincere Declaration of our innocency to all our Brethren throughout the kingdome; aswel for the better establishment of a perfect peace and union among us, as also to wipe away all mi<g ref="char:EOLhyphen"/>stakes, false conceits, and prejudicate opinions, wherewith the weaker sort of spirits may be imbu'd and poisoned by the too too boldly asserted untruths and maliciously forg'd relations frequently inserted into every leaf of his paper.</p>
+            <p>First then, because he does seem chiefly to insist on and reproach some <hi>few wanton Clergy men</hi> (such is his ordinary language) with we know not what <hi>novelties and new notions in doctrin,</hi> especi<g ref="char:EOLhyphen"/>cially relating to Mr. <hi>Thomas White</hi> alias <hi>Blacklow,</hi> calling them <hi>Blackloists,</hi> we do here all of us to a man profess and de<g ref="char:EOLhyphen"/>clare before God and the world, as we have done several times heretofore by our General and Capitular Acts in the year 1653 and 1657, which are on record in our Registers, that we dislike disapprove and renounce all novelties belonging either to Religi<g ref="char:EOLhyphen"/>on or Government. And particularly, whereas some books written by Mr. <hi>Thomas White</hi> of <hi>Essex</hi> are already prohibited and condemned by the Pope, We, out of our duty and obedience to his Holinesse, do likewise hold them for prohibited and con<g ref="char:EOLhyphen"/>demned, and do disclaim and disapprove them as such; and there<g ref="char:EOLhyphen"/>fore, according to our charge and office, we declare to all our Bre<g ref="char:EOLhyphen"/>thren and lay Catholicks of the Kingdome, that none shall or ought read them but those that have leave to read forbidden books.</p>
+            <pb n="3" facs="tcp:207593:2"/>
+            <p>And further, we do from our hearts disclaim, disown, and ut<g ref="char:EOLhyphen"/>terly renounce what ever is contained in the said Mr. <hi>Whites</hi> book entituled <hi>The Grounds of Obedience and Government,</hi> which is any way offensive in the least to his Sacred Majesty, our Soveraign Lord; or ill principl'd in order to his State and Government.</p>
+            <p>Secondly, whereas Dr. <hi>Leyburn</hi> does calumniate us as being Enemies to our Mother-house the Colledge of <hi>Doway;</hi> We do here all of us religiously profess that we never had the least thought or intention of any such aversion. We have ever lookt upon it as the first and cheif Nurse of such pious Missionaries as must be sent to help and succeed us. Many of us have had our e<g ref="char:EOLhyphen"/>ducation there, and therefore it were an impossible ingratitude in us not to reverence such a Mother of Martyrs. Hence it was we made a Capitular Act in the year 1657, whereby we engaged our selves and all our Brethren to be diligent sollicitors for the recovery of all pensions, debts or other monyes due unto that house, nor have we ever transfer'd or employ'd to any other end the least gift or benevolence bestowed upon it. Tis true, we have thought fit to reserve within the Kingdome such donations as might be given to be setled in rents for the use of that Colledge, rather then let the principal be transported into a strange Country; which both grave persons of <hi>Doway</hi> Colledge it self have earnest<g ref="char:EOLhyphen"/>ly recommended to us, &amp; we conceive no wise man can disapprove; being that if it should please Gods providence to suffer us to be brought up in our own Nation, what ever monyes were so trans<g ref="char:EOLhyphen"/>mitted and setled under a foraign Prince, would be most cer<g ref="char:EOLhyphen"/>tainly lost and confiscate. Besides that Colledge may fall into the hands of others, even Aliens, with whom we should have no power nor commerce.</p>
+            <p>Thirdly, the Doctor slanders divers of us with disobedience and endeavouring to out our last and worthy Bishop of <hi>Chal<g ref="char:EOLhyphen"/>cedon,</hi> and to deprive him of his Authority; wherein we need no other justification then to reflect how ridiculous it is to say or imagin it. First, we neither had nor could have any Authority during his life but by him and from him. Secondly, we have laboured by all means possible, both privately and publickly, both by writing and acting, to uphold and maintain his Lordships
+<pb n="4" facs="tcp:207593:3"/> power and jurisdiction against too too many adversaries who did oppose it; clearly seeing, that, unless his Lordships Authority did stand and subsist, we must needs fall to the ground, as being but a Body of his creation. Thirdly, suppose we had been so unworthy and impertinent as to desire it, who does not know it was not in our power, nor in the power of any Chapter whatsoever to exau<g ref="char:EOLhyphen"/>thorize their Bishop. So farr have wee been from any such intention, as that nothing has been enacted and ordered by us during his Lps life, which we have not sent to his Lp to be ap<g ref="char:EOLhyphen"/>proved and confirmed; nor did we or could we esteem it valid, till we had his Lps hand and Seal thereto. It is true we have sued with his express leave and order to get our Chapter confirmed by the Pope; as also we have been very wary to stand up for his Lordships return into <hi>England,</hi> understanding that our adversaries had made it highly displeasing to his then Majesty and the Court here. With which his Lordship was also well satisfied when he knew the occasion; his own safety being our main motive to do so; but we could never have the least thought of depriving his Lp of his Authority, without seeking our own destruction. We know and have too many evident proofs of it under the Doctor's own hand, that, not finding how to satisfy his own ambition, and to rule over us at his will and pleasure, he had endeavoured from time to time to beget a misintelligence betwixt our Bishop and us; wherein he sometimes prevailed for a while by false informa<g ref="char:EOLhyphen"/>tions; but, so soon as his Lordship came to know the truth, he was alwaies satisfied to the full, as several letters under his own hand yet to be seen do clearly testifie.</p>
+            <p>Lastly, as to the Doctors scornful and reviling language, his false reproaches, his scandalous calumnies, and his injurious un<g ref="char:EOLhyphen"/>truths, wherewith he labours to brand our Brethren acting here in <hi>London</hi> by order from us; and these, both in general and parti<g ref="char:EOLhyphen"/>cular; we have taken the pains to examin them all in order as they ly in his pamphlet. And first, we must needs acknowledge that what our Dean, Secretary, and the rest of our Brethren here have acted and ordered in our absence has not only been as impowred and authorized by us with our consent and approbation, but we likewise give them many thanks for the singular care and pains
+<pb n="5" facs="tcp:207593:3"/> they have taken therein; and therefore we look on his ordinary and seditions phrase of a <hi>pack of Blacklowists,</hi> as an aspersion thrown upon us all.</p>
+            <p>The rest of his untruths and calumnies which are too many to relate, whereof he brings no other proof for the most part, but some devout aspiration, or <hi>as 'tis signified to me,</hi> have been canoni<g ref="char:EOLhyphen"/>cally and clearly prov'd to be false before us all; partly by letters under his own hand, and partly by juridical Oathes and testimo<g ref="char:EOLhyphen"/>nies of several vertuous Priests, somtimes two, somtimes three, sometimes twenty or more, as appeares on record in the examinati<g ref="char:EOLhyphen"/>on of and Answer to all the particulars of his book, inserted together with a Copy of these presents into the Acts and Registers of our Chapter.</p>
+            <p>One slander in particular we cannot omit, which is that he saith some of us have call'd the virtuous and learned Father <hi>Angelo</hi> Provincial of the <hi>Franciscans</hi> in England, <hi>Madman;</hi> which how false it is, we are confident the Gentleman himself does not doubt; being all of us ready to assure him of it, and of our respect on all occasions to his person and merit. Besides we our selves incurr the same reproach (if due for the reason the Dr. alledges, to wit, the <hi>disclaiming Mr.</hi> Blacklow's <hi>doctrin,</hi>) by this our Declaration.</p>
+            <p>If the printing and publishing our Encyclical Epistle have per<g ref="char:EOLhyphen"/>haps any way been the occasion or cause of the Doctour his scan<g ref="char:EOLhyphen"/>dalous answer (for also heretofore unprovoked by us in the least, he injured our credits in a printed Pamphlet) we are heartily sory for it, being a thing we never intended; nay it was expresly ordered by us it should not be publisht. Our only aime was to pre<g ref="char:EOLhyphen"/>vent, by sending some private copies of it to our Officers, the dangerous dissensions which the Doctour his factious gathering of hands and other sinister proceedings might possibly produce a<g ref="char:EOLhyphen"/>mongst our Brethren.</p>
+            <p>Thus much, dear Brethren, we have thought fit, nay we have conceived our selves oblig'd to signifie to you; that, being adver<g ref="char:EOLhyphen"/>tised, you may be the more cautious lest such insolent and turbu<g ref="char:EOLhyphen"/>lent spirits should beget divisions amongst us. You know <hi>Omne regnum in se divisum desolabitur;</hi> that all Schism is destructive of Charity, especially amongst Apostolical Missionaries. And
+<pb n="6" facs="tcp:207593:4"/> therefore the Apostle admonishes us, <hi>Etsi tradidero Corpus meam ita ut ardeam, charitatem autem non habuero, nihil mihi prodest.</hi> You know how scandalous all dissensions must needs appear a<g ref="char:EOLhyphen"/>mongst such as ought to govern and guide their flocks in the path of eternal salvation, and that again in the midst of a Nation over<g ref="char:EOLhyphen"/>flowed with divers Heterodox opinions. Of which scandal as we have been far from giving the least occasion, so (God be blest) we can with truth pretend to as great an union (excepting the turbulent endeavours of this one single person) as possibly any so great a community in the Christian world. Of which this General Assembly affords a most remarkable instance; wherein, though near thirty of our eminenrest Brethren voted and sub<g ref="char:EOLhyphen"/>scribed, gathered from several Districts in <hi>England</hi> and <hi>Wales,</hi> (and so representing the whole body of the Clergy) and the matters debated there were of several natures, some of them re<g ref="char:EOLhyphen"/>lating to divers more particular interests under the common, ma<g ref="char:EOLhyphen"/>ny of them also being subject to and so generally apt to beget (and possibly end) in dispute and controversie, yet no one point was either left undetermined, or determined with different votes; but all the Chapter men and Officers to a man were universally and unanimously either affirmative or negative; so unparalleld an har<g ref="char:EOLhyphen"/>mony of mindes &amp; hearts is there in the Catholick English Chap<g ref="char:EOLhyphen"/>ter and Clergy. And what more becoming a Church, since we are not only Christs seamless garment, but even the sacred limbs and members of Christ himself; his mystical Body, whose inviolable uni<g ref="char:EOLhyphen"/>on the Scriptures and Fathers particularly St. <hi>Paul</hi> and St. <hi>Austin,</hi> do so dearly recommend to us. We are all children of the same Pa<g ref="char:EOLhyphen"/>rents, begotten by the same Father Jesus Christ, and brought forth by the same Mother, his dear Spouse, the Catholick Church; so therefore Christ be preacht and Soules be gain'd, let it be all one to us, by whomsoever it is done. Let us still continue linkt unani<g ref="char:EOLhyphen"/>mously in the sacred bonds of Christian Charity, <hi>Cor unum &amp; a<g ref="char:EOLhyphen"/>nima una, id ipsum sentientes.</hi> For which we beg you will joyn in your prayers and sacrifices with us, who are</p>
+            <closer>
+               <signed>Your affectionate Brethren and Servants in Christ.</signed>
+               <pb n="7" facs="tcp:207593:4"/>
+            </closer>
+            <postscript>
+               <p>We under written Apostolical Notaries attest that we saw the above written Copy sign'd in the Original by twenty five Officers and Canons of the English Chapter.</p>
+               <closer>
+                  <dateline>In testimony whereof we have subscribed and set to our seals <date>the 17. of <hi>Sept.</hi> 1661.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Robert Chernock</hi> Apostolical Notary.</item>
+                        <item>
+                           <hi>Thomas Masey,</hi> Apost. Notary.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>Concordat cum originali.</p>
+               <closer>
+                  <signed>Ita Testor <hi>Gulielmus Byflete</hi> Protonot. Apost.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
